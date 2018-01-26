@@ -79,6 +79,11 @@
 //= require miq_explorer
 //= require qs
 //= require miq_timeline
+// GraphiQL
+//= require react
+//= require react-dom
+//= require isomorphic-fetch
+//= require graphiql/graphiql.js
 // Bower packages
 //= require angular-ui-sortable
 //= require angular-dragdrop
